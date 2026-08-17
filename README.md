@@ -10,6 +10,7 @@ Análisis de la brecha salarial de género en México, usando datos oficiales de
 - Descarga participación laboral por sexo desde la API del Banco Mundial
 - Limpia y explora ambos conjuntos de datos
 - Compara ambas series en una gráfica
+- Completa los módulos 2 a 8: distribuciones, categorías, correlación, bootstrap, gráficas entre países, texto y clasificación
 
 ## ¿Cómo usarlo?
 
